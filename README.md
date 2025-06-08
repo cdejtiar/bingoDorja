@@ -54,10 +54,4 @@ Ideal para usar en:
 
 ---
 
-## 🤝 Hecho con cariño por
-
-**Cami** — para compartir buenos momentos con risas, nervios, emoción… y muchos bingos ❤️
-
----
-
 ¿Te gustó? ¿Lo usaste? ¡Compartilo con quien quieras!
