@@ -1,6 +1,6 @@
 # 🎱 ¡Bingo Familiar Dorja! 🎉
 
-¡Bienvenid@ al *sorteador de bolillas de Dorja*  
+¡Bienvenid@ al *sorteador de bolillas de Dorja*! 
 Este proyecto fue creado para traerle un poco de magia, emoción y estética a tus partidas de bingo con familia, amig@s o janijim.
 
 ![Logo Dorja](img/logoDorja.png)
@@ -51,12 +51,6 @@ Ideal para usar en:
 - Cambiar colores y textos en el archivo `.html` directamente.
 - Agregar sonidos, animaciones o mensajes personalizados.  
   ¡Las posibilidades son infinitas!
-
----
-
-## 🤝 Hecho con cariño por
-
-**Cami** — para compartir buenos momentos con risas, nervios, emoción… y muchos bingos ❤️
 
 ---
 
